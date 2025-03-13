@@ -40,6 +40,8 @@ color: #2e2f42;
     color: #434455;
 }
 
+/* Main-section-one*/
+
 .section-one {
 }
 .section-one-title {
@@ -61,4 +63,24 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 
+/* Main-section-two*/
+
+.section-two-list {
+}
+.section-two-item {
+}
+.section-two-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.section-two-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
 
