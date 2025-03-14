@@ -74,11 +74,6 @@ line-height: 1.07;
 text-align: center;
 }
 .btn {
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
@@ -146,6 +141,7 @@ line-height: 1.11;
 background-color: #FFFFFF;
 }
 .our-team-item {
+    background-color: #FFFFFF;
 }
 .our-team-img {
 }
@@ -219,7 +215,7 @@ color: #4d5ae5;
 line-height: 1.17;
 }
 .footer-logo-studio {
-color:#f4f4fd5;
+color: #f4f4fd;
 }
 .footer-text {
 font-weight: 400;
