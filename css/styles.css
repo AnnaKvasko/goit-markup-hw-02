@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
-    color:#434455
+    color:#434455;
 }
 
 ul {
@@ -23,6 +23,7 @@ line-height: 21px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
+line-height: 1.17
 }
 .header-logo-web {
     color: #4d5ae5;
@@ -37,7 +38,7 @@ color: #2e2f42;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-    color:#404BBF
+    color:#404BBF;
 }
 
 .header-address-link {
@@ -46,10 +47,11 @@ color: #2e2f42;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
+    font-style: normal
 }
 .header-address-link:hover, 
 .header-address-link:focus {
-    color: #404BBF
+    color: #404BBF;
 }
 /* Main-section-one*/
 
@@ -64,8 +66,8 @@ font-weight: 700;
 font-size: 56px;
 line-height: 60px;
 letter-spacing: 0.02em;
-text-align: center;
 color: #fff;
+line-height: 1.07;
 }
 .btn {
 border-radius: 4px;
@@ -73,19 +75,21 @@ padding: 16px 32px;
 width: 169px;
 height: 56px;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #4d5ae5;
+background-color: #4d5ae5;
 }
 .btn:hover,
 .btn:focus {
-    color:#404BBF
-    }
+background-color:#404BBF;
+}
 .btn-text {
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.04em;
 color: #fff;
-vertical-align: center;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em
 }
 
 /* Main-section-two*/
@@ -124,8 +128,10 @@ line-height: 40px;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+line-height: 1.11;
 }
 .our-team-list {
+    background-color: #FFFFFF
 }
 .our-team-item {
 }
@@ -162,6 +168,8 @@ line-height: 40px;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+line-height: 1.11;
+text-transform: capitalize;
 }
 .our-portfolio-list {
 }
@@ -186,19 +194,21 @@ color: #434455;
 
 /* footer */
 .footer {
+font-family: "Raleway", sans-serif;
 width: 1440px;
 height: 312px;
 background-color: #2e2f42;
 }
 
 .footer-logo {
-"Raleway", sans-serif;
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 21px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
+line-height: 1.17;
 }
 .footer-logo-web {
 color: #4d5ae5;
